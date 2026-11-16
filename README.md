@@ -120,7 +120,6 @@ npm run build
 
 The build produces `sennheiser-ew-2.0.0.tgz` for import into Companion. For local development, follow the [Companion development folder setup](https://companion.free/for-developers/module-development/local-modules/). See [Companion packaging](https://companion.free/for-developers/module-development/module-lifecycle/module-packaging/) for details.
 
-Before publishing to your own GitHub repository, replace the example repository, issues and maintainer values in `companion/manifest.json`.
 
 ## License and credits
 
