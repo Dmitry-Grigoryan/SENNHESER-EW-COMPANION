@@ -1,0 +1,34 @@
+{
+  "id": "sennheiser-ew",
+  "name": "sennheiser-ew",
+  "shortname": "SENN-EW",
+  "type": "connection",
+  "description": "Sennheiser Evolution Wireless G3/G4 Control",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": "git+https://github.com/yourname/companion-module-sennheiser-ew.git",
+  "bugs": "https://github.com/yourname/companion-module-sennheiser-ew/issues",
+  "maintainers": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    }
+  ],
+  "manufacturer": "Sennheiser",
+  "products": [
+    "Evolution Wireless G3/G4"
+  ],
+  "keywords": [
+    "Sennheiser",
+    "EW",
+    "G3",
+    "G4"
+  ],
+  "legacyIds": [],
+  "runtime": {
+    "type": "node22",
+    "api": "nodejs-ipc",
+    "apiVersion": "2.1.2",
+    "entrypoint": "src/main.js"
+  }
+}
