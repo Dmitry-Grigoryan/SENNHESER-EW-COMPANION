@@ -124,4 +124,4 @@ Before publishing to your own GitHub repository, replace the example repository,
 
 ## License and credits
 
-MIT. The source retains the upstream license notice. The original Bitfocus module and its protocol implementation were used as a reference. [Upstream Bitfocus Sennheiser Evolution Wireless module](https://github.com/bitfocus/companion-module-sennheiser-evolutionwireless)
+MIT. The source retains the upstream license notice.
